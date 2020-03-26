@@ -101,5 +101,5 @@ $ aws sts assume-role \
 }
 ```
 上記の結果をもとに。図のように指定してConnectionを作成します。
-https://gyazo.com/0bcb2933330cfe49a3a2fb020f6f9db2
+https://gyazo.com/9126e2cc7b3c6e34c6a10051e062c4e7
 ※ IAM role or ARNには指定なしです。
